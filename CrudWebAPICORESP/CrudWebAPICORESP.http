@@ -1,0 +1,6 @@
+@CrudWebAPICORESP_HostAddress = http://localhost:5145
+
+GET {{CrudWebAPICORESP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
